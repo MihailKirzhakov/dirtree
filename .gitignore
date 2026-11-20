@@ -1,0 +1,9 @@
+
+/dirtree
+*.o
+*.d
+/build/
+*.zip
+*.pdf
+test.wav
+.vscode
